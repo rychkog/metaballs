@@ -1,0 +1,1 @@
+Metaballs implementation based on ideas described by [Jamie Wong](http://jamie-wong.com/2014/08/19/metaballs-and-marching-squares/ )
